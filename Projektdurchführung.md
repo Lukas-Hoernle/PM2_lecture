@@ -19,17 +19,15 @@ Im Rahmen des Projekts wurden verschiedene Aufgabenpakete erfolgreich bearbeitet
 
 Die erfolgreiche Bearbeitung dieser Aufgabenpakete hat es ermöglicht, wichtige Meilensteine im Projekt zu erreichen und den Weg für die weiteren Schritte der Studienarbeit zu ebnen.
 
-
 # 2. Einführung in das Projektthema
 
-## 2.1 Besprechung der Rahmenbedingungen und Vorgehensweise mit Herrn Schöchlin
+## 2.1 Besprechung der Rahmenbedingungen und Vorgehensweise mit Herrn Lausen
 
-Vor Beginn der Studienarbeit fand eine ausführliche Besprechung mit Herrn Schöchlin statt, um die Rahmenbedingungen und die Vorgehensweise des Projekts zu klären. In diesem Meeting wurden die grundlegenden Ziele und Erwartungen des Projekts erläutert. Herr Schöchlin gab wertvolle Inputs und Empfehlungen, die das Projektteam bei der weiteren Planung und Umsetzung berücksichtigte.
+Vor Beginn der Studienarbeit fand eine ausführliche Besprechung mit Herrn Lausen statt, um die Rahmenbedingungen und die Vorgehensweise des Projekts zu klären. In diesem Meeting wurden die grundlegenden Ziele und Erwartungen des Projekts erläutert. Herr Lausen gab wertvolle Inputs und Empfehlungen, die das Projektteam bei der weiteren Planung und Umsetzung berücksichtigte.
 
 ## 2.2 Festlegung der Recherchen und Vorgehensweise
 
-Im Anschluss an das Meeting mit Herrn Schöchlin wurden die spezifischen Recherchen und die Vorgehensweise für das Projektthema festgelegt. Es wurde diskutiert, welche Aspekte des Themas genauer untersucht werden sollten und welche Methoden und Ansätze dabei zum Einsatz kommen sollten. Die Festlegung der Recherchen und Vorgehensweise bildete die Grundlage für die weiteren Schritte des Projekts.
-
+Im Anschluss an das Meeting mit Herrn Lausen wurden die spezifischen Recherchen und die Vorgehensweise für das Projektthema festgelegt. Es wurde diskutiert, welche Aspekte des Themas genauer untersucht werden sollten und welche Methoden und Ansätze dabei zum Einsatz kommen sollten. Die Festlegung der Recherchen und Vorgehensweise bildete die Grundlage für die weiteren Schritte des Projekts.
 
 # 3. Abgabe des Themas
 
