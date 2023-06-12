@@ -1,6 +1,4 @@
-# Inhaltsverzeichnis - Projektplanung
-
-1# Einleitung
+# Einleitung
 
 Die vorliegende Projektplanung beschäftigt sich mit der Studienarbeit zum Einsatz von CNNs und Deep Neural Networks in der Bildverarbeitung und Segmentierung. Diese Studienarbeit hat zum Ziel, den Einsatz von neuronalen Netzwerken in der Bildverarbeitung zu untersuchen und ein neues System zu entwickeln, das Bilder mit verschiedenen Methoden verarbeitet.
 
