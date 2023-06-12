@@ -1,2 +1,2 @@
 # PM2_lecture
-Projektmanagement 2
+Ausarbeitung der Vorlesung "Projektmanagement 2" 
